@@ -1,60 +1,35 @@
-# Welcome to My GitHub Profile! 👋
+## About Me
 
-Hi there! I'm **Fahad Bin Siddique**, a passionate **Web Developer** with a love for building innovative and impactful projects. I enjoy working with cutting-edge technologies and solving real-world problems through code.
+Hi there! I'm Fahad Bin Siddique, a passionate Web Developer with a love for building innovative and impactful projects. I enjoy working with cutting-edge technologies and solving real-world problems through code.
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I work with:
+## My Skills
 
-- **Programming Languages:** JavaScript
-- **Frontend Development:** HTML, CSS, React.js, Tailwind CSS, Bootstrap
-- **Backend Development:** Firebase
-- **DevOps & Deployment:** GitHub Actions, Vercel, Netlify
-- **Tools:** Git, VS Code, Figma
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff"> 
+<img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff"> 
+<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff"> 
 
-## 🔥 Featured Projects
-Here are some of the projects I'm proud of:
+## GitHub Stats
 
-### 1. **Hekto - eCommerce Marketplace**
-   - **Description:** A fully-featured general eCommerce marketplace designed to sell a variety of products needed for daily life. It includes user authentication, product filtering, cart management, and secure payment integration.
-   - **Tech Stack:** React.js, Tailwind CSS, JavaScript, Firebase, Vercel
-   - **Live Demo:** [Hekto Live Demo](https://fahadprojecttwo.vercel.app/)
-   - **GitHub Repo:** [Hekto Repository](https://github.com/fahadbinsiddique/hektoproject)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=fahadbinsiddique&theme=dark&show_icons=true&count_private=true">
 
-### 2. **[Project Name]**
-   - **Description:** A brief description of the project.
-   - **Tech Stack:** [List of technologies used]
-   - **Live Demo:** [Link to live demo]
-   - **GitHub Repo:** [Link to repository]
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=fahadbinsiddique&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=fahadbinsiddique&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-### 3. **[Project Name]**
-   - **Description:** A brief description of the project.
-   - **Tech Stack:** [List of technologies used]
-   - **Live Demo:** [Link to live demo]
-   - **GitHub Repo:** [Link to repository]
+## Connect with me
 
-## 📈 GitHub Stats
-Here's a quick overview of my GitHub activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadbinsiddique&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbinsiddique&layout=compact&theme=dark&hide_border=true)
-
-## 🌱 What I'm Currently Learning
-I'm always learning and exploring new technologies. Currently, I'm diving into:
-- **[Technology/Topic]**
-- **[Technology/Topic]**
-- **[Technology/Topic]**
-
-## 📫 Let's Connect!
-I'm always open to collaboration, discussions, or just a friendly chat. Feel free to reach out to me:
-
-- **Email:** [fahad.bin.siddique345@gmail.com](mailto:fahad.bin.siddique345@gmail.com)
-- **GitHub:** [fahadbinsiddique](https://github.com/fahadbinsiddique)
-- **LinkedIn:** [fahadbinsiddique](https://www.linkedin.com/in/fahadbinsiddique/)
-
-## ❤️ Support My Work
-If you find my projects interesting or helpful, consider giving them a ⭐️ on GitHub! Your support motivates me to keep building and sharing.
-
----
-
-Thanks for visiting my profile! Have a great day! 😄
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/fahadbinsiddique/" target="_blank">Fahad Bin Siddique</a> Email: fahadbinsiddique0@gmail.com</p>
