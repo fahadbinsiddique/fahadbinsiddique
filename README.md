@@ -32,4 +32,4 @@ Hi there! I'm Fahad Bin Siddique, a passionate Web Developer with a love for bui
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/fahadbinsiddique/" target="_blank">Fahad Bin Siddique</a> Email: fahadbinsiddique0@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/fahadbinsiddique/" target="_blank">Fahad Bin Siddique</a> Email:<a href="mailto:fahadbinsiddique0@gmail.com" target="_blank"> fahadbinsiddique0@gmail.com</p>
