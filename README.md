@@ -88,27 +88,20 @@ Full-Stack Web Developer based in **Dhaka, Bangladesh** specializing in building
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadbinsiddique&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadbinsiddique&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=fahadbinsiddique&theme=dark&show_icons=true&count_private=true">
 
-</div>
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbinsiddique&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages">
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=fahadbinsiddique&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies">
 
-</div>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=fahadbinsiddique&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=fahadbinsiddique&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahadbinsiddique&theme=tokyonight&hide_border=false&color=38BDF8)
 
-</div>
 
 ---
 
